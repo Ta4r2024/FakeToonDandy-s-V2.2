@@ -14,7 +14,7 @@
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 
-local Window = Library.CreateLib("FakeToon| v2.1", "RJTheme3")
+local Window = Library.CreateLib("FakeToon| v2.2", "RJTheme3")
 
 local Tab = Window:NewTab("FakeToon")
 
